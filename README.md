@@ -109,6 +109,12 @@ The trained regression model successfully predicts house prices using housing fe
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://house-price-prediction-m6wsjhptexe4jjnbpc5hks.streamlit.app/
+
+Predict house prices using an XGBoost machine learning model through an interactive Streamlit web application.
+
 ## 👨‍💻 Author
 
 **Saud Jabar Ali**
