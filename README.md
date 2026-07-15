@@ -96,6 +96,12 @@ These visualizations help identify feature relationships and understand data pat
 
 The trained regression model successfully predicts house prices using housing features with good predictive performance. Proper preprocessing and feature engineering significantly improve model accuracy.
 
+## 📊 Model Performance
+
+| Metric | Score |
+|---------|-------|
+| R² Score | 0.9116 |
+| Mean Squared Error | 678260608 |
 ---
 
 ## 🔮 Future Improvements
